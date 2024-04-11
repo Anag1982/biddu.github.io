@@ -13,6 +13,8 @@ comments: false
 
 ## Journals
 
++ P. Escofet, A. Ovide, M. Bandic, L. Prielinger, H. Van Someren, S. Feld, E. Alarcón, S. Abadal, C. G. Almudéver, [“Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era,”](https://arxiv.org/pdf/2403.17205.pdf) ACM Transactions on Quantum Computing, 2024.
+
 ## Conferences
 
 + M. Bandic, L. Prielinger, J. Nüßlein, A. Ovide, S. Rodrigo, S. Abadal, H. van Someren, G. Vardoyan, E. Alarcón, C.G. Almudever, and S. Feld, "[Mapping quantum circuits to modular architectures with QUBO](https://arxiv.org/abs/2305.06687)," Proceedings of the IEEE QCE 2023, Bellevue, USA, September 2023.
